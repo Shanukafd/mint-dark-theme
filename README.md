@@ -7,10 +7,10 @@
 ## Installation
 
 - Open Extensions sidebar panel in Visual Studio Code. View → Extensions
-- Search for Dark Mint Theme
+- Search for Mint Dark Theme
 - Click Install
 - Click Reload
-- File > Preferences > Color Theme > Dark Mint Theme
+- File > Preferences > Color Theme > Mint Dark Theme
 
 ## Working with Markdown
 
