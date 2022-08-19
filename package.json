@@ -1,0 +1,22 @@
+{
+  "name": "mint-dark-theme",
+  "displayName": "Mint Dark Theme",
+  "description": "A simple minimalist dark theme.",
+  "version": "0.0.1",
+  "publisher": "ShanukaFernando",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mint Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mint Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
