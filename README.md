@@ -1,6 +1,8 @@
-# mint-dark-theme README
+# Mint Dark Theme
 
-# Readme file for the theme = mint dark theme
+# A simple minimal dark theme.
+
+![Mint Dark Snippet](MintDarkSnippet.png "Mint Dark Snippet")
 
 ## Working with Markdown
 
