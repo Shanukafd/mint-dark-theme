@@ -1,8 +1,16 @@
 # Mint Dark Theme
 
-# A simple minimal dark theme.
+## A simple minimal dark theme.
 
 ![Mint Dark Snippet](MintDarkSnippet.png "Mint Dark Snippet")
+
+## Installation
+
+- Open Extensions sidebar panel in Visual Studio Code. View → Extensions
+- Search for Dark Mint Theme
+- Click Install
+- Click Reload
+- File > Preferences > Color Theme > Dark Mint Theme
 
 ## Working with Markdown
 
